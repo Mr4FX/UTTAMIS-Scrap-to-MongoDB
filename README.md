@@ -48,5 +48,5 @@ This project is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.
 <br/>
 <br/>
 
-# Thanks for looking
-## Any recommendation or feedback will be much appreciated
+Thanks for looking
+Any recommendation or feedback will be much appreciated
